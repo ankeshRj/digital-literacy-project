@@ -23,16 +23,16 @@ Instead of just listing rules, I wanted this project to actually help people:
 
 Here's how I've structured the project:
 
-```text
+```
 digital-literacy-project/
-│── task-4-email-etiquette/
-│   └── social-media-checklist.md  # Quick do's and don'ts for socials
-│
-│── task-5-cybercrime/
-│   ├── casestudy.md               # A deep dive into a real-life scenario
-│   └── prevention-checklist.md    # Actionable steps to stay secure
-│
-│── README.md
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+├── task-5-cybercrime/
 ```
 
 ---
